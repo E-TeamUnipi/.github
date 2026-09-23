@@ -10,7 +10,7 @@ Benvenuto nell'organizzazione GitHub dell' **E-Team Squadra Corse**, il team For
 
 descrizione
 
-### 💻 FW — Firmware
+### 💻 FI — Firmware
 
 descrizione
 
